@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IziAnswer</string>
+
+    <integer-array name="seconds_array">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+    </integer-array>
+
+</resources>
